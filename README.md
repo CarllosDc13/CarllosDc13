@@ -21,7 +21,9 @@ Here are some ideas to get you started:
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CarllosDc13&locale=pt-BR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&ring_color=79fe96"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarllosDc13&locale=pt-BR&layout=compact&langs_count=16&theme=dark"/>
   </div>
+
   ##
+  
   <div style="margin: 1rem 0 0 0">
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
