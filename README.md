@@ -35,18 +35,30 @@ Here are some ideas to get you started:
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   </div>
+  
+  ##
+  
   <div style="margin: 1rem 0 0 0">
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </div>
+  
+  ##
+  
   <div style="margin: 15px 0 0 0">
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </div>
+  
+  ##
+  
   <div style="margin: 1rem 0 0 0">
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   </div>
+  
+  ##
+  
   <div style="margin: 1rem 0 0 0">    
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> 
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
