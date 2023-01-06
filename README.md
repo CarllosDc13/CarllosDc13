@@ -21,10 +21,14 @@ Here are some ideas to get you started:
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CarllosDc13&locale=pt-BR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&ring_color=79fe96"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarllosDc13&locale=pt-BR&layout=compact&langs_count=16&theme=dark"/>
   </div>
-
-  ##
   
-  <div style="border: 1px solid white; border-radius: 5px">
+##
+
+![Snake animation](https://github.com/CarllosDc13/CarllosDc13/blob/output/github-contribution-grid-snake.svg)
+
+##
+
+<div style="margin: 1rem 0 0 0">
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -71,7 +75,3 @@ Here are some ideas to get you started:
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />            
   </div>
 </div>
-
-##
-
-![Snake animation](https://github.com/CarllosDc13/CarllosDc13/blob/output/github-contribution-grid-snake.svg)
