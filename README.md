@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   ##
   
-  <div style="margin: 1rem 0 0 0">
+  <div style="border: 1px solid white; border-radius: 5px">
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
