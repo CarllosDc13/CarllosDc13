@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </div>
-  <div style="margin: 1rem 0 0 0">
+  <div style="margin: 15px 0 0 0">
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </div>
