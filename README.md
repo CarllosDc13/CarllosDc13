@@ -24,14 +24,14 @@ Here are some ideas to get you started:
   
 ##
 
+![Snake animation](https://github.com/CarllosDc13/CarllosDc13/blob/output/github-contribution-grid-snake2.svg) 
 <!-- 
-  ![Snake animation](https://github.com/CarllosDc13/CarllosDc13/blob/output/github-contribution-grid-snake.svg) 
--->
 <picture>
   <source media="dark" srcset="github-snake-dark.svg" />
   <source media="light" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+-->
 
 ##
 
